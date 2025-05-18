@@ -59,14 +59,7 @@ bash
 Copy
 Edit
 python jarvis.py
-🖼️ GUI Version with Streamlit (Optional)
-To run the Streamlit-based voice assistant UI:
 
-bash
-Copy
-Edit
-streamlit run gui_jarvis.py
-This launches a browser UI where you can interact with the assistant via buttons and text, while the backend still handles voice and AI interaction.
 
 🧪 Sample Commands
 Command	Action
