@@ -16,7 +16,7 @@ def speak(text):#Function to Invoke Speaking Liabrary
 
 client = OpenAI(
     base_url="https://api.groq.com/openai/v1",
-    api_key="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"
+    api_key="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"
 )
 
 def aiProcess(command):
