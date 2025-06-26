@@ -6,7 +6,7 @@
 
 🔊 Speech Synthesis – Speaks responses using pyttsx3
 
-🧠 Conversational AI – Uses LLaMA 3 via groq API for smart replies
+🧠 Conversational AI – Uses LLaMA 3 via groq API for smart replies(If not working , Use your own API key and replace with old one)
 
 🌐 Web Automation – Opens websites like Google, YouTube, LinkedIn, etc.
 
